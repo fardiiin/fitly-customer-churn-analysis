@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Fit.ly project-specific exclusions
+
+# Keep original and intermediate datasets private
+/data/raw/
+/data/processed/
